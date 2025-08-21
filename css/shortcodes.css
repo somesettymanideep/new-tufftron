@@ -3146,7 +3146,7 @@ div:hover>.ttm-box-view-content-inner:before, div:hover>.ttm-box-view-overlay:be
 }
 
 .ttm-tabs.ttm-tab-style-01 ul.tabs li a {
-    padding: 20px 35px;
+    padding: 20px 5px;
     font-size: 18px;
     line-height: 1;
     letter-spacing: .5px;

@@ -53,5 +53,11 @@
 .headInfo h1{
     font-size:20px!important;
 }
+.ttm-tabs.ttm-tab-style-01 ul.tabs li a {
+    padding: 20px 5px!important;
+    
 }
-
+.text-mobile{
+    font-size:20px!important;
+}
+}

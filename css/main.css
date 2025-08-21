@@ -3315,11 +3315,11 @@ n .more-posts .next-post .post-control-link {
   min-height: 50px;
   font-display: swap;
 }
- .ttm_single_image-wrapper img {
+ /* .ttm_single_image-wrapper img {
     width: 520px;
     height: 590px;
     object-fit: cover;
-} 
+}  */
 
 #menu{
     font-family: system-ui;
