@@ -5,7 +5,7 @@
 var revapi2,
 
   tpj;
-  
+
   jQuery(function() {
     tpj = jQuery;
     if(tpj("#rev_slider_1_1").revolution == undefined){
@@ -13,6 +13,7 @@ var revapi2,
     }else{
         revapi2 = tpj("#rev_slider_1_1").show().revolution({
         sliderType:"standard",
+       
         visibilityLevels:"1240,1240,778,480",
         gridwidth:"1240,1240,778,480",
         gridheight:"800,800,450,350",
