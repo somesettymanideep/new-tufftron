@@ -165,7 +165,7 @@ if (!empty($_POST)) {
                                     <div class="site-branding ">
                                        <a class="home-link" href="index.html" title="TUFFTRON" rel="home">
                                             <img id="logo-img"  class="img-fluid"  width="200" height="53"
-                                                src="img/logo.avif" alt="TUFFTRON logo-img" loading="lazy">
+                                                src="images/img/gallery/tufftron-logo-white.png" alt="TUFFTRON logo-img" loading="lazy">
                                         </a>
                                     </div><!-- site-branding end -->
                                     <div class="d-flex flex-row">
