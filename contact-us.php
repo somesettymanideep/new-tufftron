@@ -243,7 +243,7 @@ if (!empty($_POST)) {
                                             <a href="index.html" class="home"><i class="themifyicon ti-home"></i>&nbsp;&nbsp;Home</a>
                                         </span>
                                         <span class="ttm-bread-sep">&nbsp; / &nbsp;</span>
-                                        <span>Contact Us</span>
+                                        <span class="text-white">Contact Us</span>
                                     </div>
                                 </div>
                             </div>
@@ -353,13 +353,13 @@ if (!empty($_POST)) {
                 <div class="container">
                     <!-- row -->
                     <div class="row">
-                        <div class="col-lg-4">
+                        <div class="col-lg-5">
                             <div class="col-bg-img-eight ttm-bg ttm-col-bgimage-yes ttm-textcolor-white spacing-11 z-index-2">
                                 <div class="ttm-col-wrapper-bg-layer ttm-bg-layer"></div>
                             </div>
                             <!-- col-img-bg-img-eight end-->
                         </div>
-                        <div class="col-lg-8">
+                        <div class="col-lg-7">
                             <!-- col-img-img-eight -->
                             <div class="ttm-bg ttm-col-bgcolor-yes ttm-right-span spacing-12">
                                 <div class="ttm-col-wrapper-bg-layer ttm-bg-layer"></div>
