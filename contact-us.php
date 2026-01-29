@@ -234,7 +234,7 @@ if (!empty($_POST)) {
                     <div class="row align-items-center">
                         <div class="col-lg-12">
                             <div class="page-title-heading">
-                                <h1 class="title">Contact Us</h1>
+                                <h1 class="title text-light">Contact Us</h1>
                             </div>
                             <div class="breadcrumb-wrapper">
                                 <div class="container">
